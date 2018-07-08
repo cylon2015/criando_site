@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/cylon2015/criando_site#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-ruby-sass": "^3.0.0",
+    "gulp-sass": "^4.0.1"
   }
 }
