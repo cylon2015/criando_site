@@ -1,0 +1,21 @@
+{
+  "name": "site1",
+  "homepage": "https://github.com/cylon2015/criando_site",
+  "authors": [
+    "cylon <cylon2015@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.1"
+  }
+}
